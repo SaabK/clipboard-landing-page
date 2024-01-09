@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Live Site URL: [Clipboard](https://your-live-site-url.com)
+-   Live Site URL: [Clipboard](https://clipbard.netlify.app/)
 
 ## My process
 
